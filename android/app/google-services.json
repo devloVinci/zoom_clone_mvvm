@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "564691686377",
+    "firebase_url": "https://zoomclone-c5496-default-rtdb.firebaseio.com",
+    "project_id": "zoomclone-c5496",
+    "storage_bucket": "zoomclone-c5496.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564691686377:android:45363a08d7ae1782ca3178",
+        "android_client_info": {
+          "package_name": "com.devlovinci.myzoom_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUWdhVK6J8MOKtJy4xkye2R1ZE-U8FmuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564691686377:android:02eefc526286cd9aca3178",
+        "android_client_info": {
+          "package_name": "com.devlovinci.zoom_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUWdhVK6J8MOKtJy4xkye2R1ZE-U8FmuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
