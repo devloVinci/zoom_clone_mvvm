@@ -120,18 +120,4 @@ No audio heard across devices:
 
 
 
-## 🧭 Roadmap
-
-- Re-enable video rendering with proper `RTCVideoRenderer` lifecycle
-- Add TURN configuration for better NAT traversal
-- Polish desktop (Windows) build compatibility with Firebase
-- Improve in-app diagnostics and call quality indicators (levels, connection state)
-
-## 🤝 Contributing
-
-PRs welcome! Please open an issue first to discuss major changes.
-
-## 📄 License
-
-MIT (or your preferred license). Add a `LICENSE` file if applicable.
 
